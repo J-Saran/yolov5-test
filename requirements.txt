@@ -135,3 +135,6 @@ websockets==12.0
 yarg==0.1.9
 yarl==1.9.4
 zipp==3.19.2
+backports.zoneinfo
+tzdata
+pyproject.toml-based
