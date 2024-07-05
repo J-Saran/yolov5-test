@@ -7,6 +7,7 @@ asttokens==2.4.1
 async-timeout==4.0.3
 attrs==23.2.0
 backcall==0.2.0
+backports.zoneinfo==0.2.1; python_version<"3.9"
 beautifulsoup4==4.12.3
 bleach==6.1.0
 certifi==2024.6.2
@@ -134,4 +135,3 @@ websockets==12.0
 yarg==0.1.9
 yarl==1.9.4
 zipp==3.19.2
-backports.zoneinfo==0.1.0
